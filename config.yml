@@ -1,0 +1,17 @@
+INVENTORY_NAME: "&7[&2Anvil*9]"
+INVENTORY_1_ID: 2
+INVENTORY_1_NAME: "repair"
+INVENTORY_1_LORE:
+  - bla bla
+  - naprawia przedmiot w rece
+  - bla bla
+INVENTORY_2_ID: 1
+INVENTORY_2_NAME: "Repair all"
+INVENTORY_2_LORE:
+  - bla bla
+  - naprawia wszystkie przedmioty w ekwipunku
+  - bla bla
+MESSAGE_REPAIR: "&cPomyslnie naprawiono przedmiot"
+MESSAGE_NOPERM_REPAIR: "&cNie masz permissji do tego (pikselke.anvil.repair)"
+MESSAGE_REPAIR_ALL: "&cPomyslnie naprawiano przedmioty w ekwipunku"
+MESSAGE_NOPERM_REPAIR_ALL: "&cNie masz permissji do tego (pikselke.anvil.repairall)"
